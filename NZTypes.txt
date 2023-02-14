@@ -1,0 +1,28 @@
+﻿Fée :
+> Faiblesse I et +3❤
+> Vos flèches ont 50% de chance d'éjecter l'ennemi mais infligent 50% de dégâts en moins.
+> Chaque assist vous rapporte 50% de points supplémentaires, une pomme en or et recharge la Création de la Lumière.
+> Vous disposez de la Création de la Lumière (se recharge en 10s, /nz creafairy pour plus d'informations)
+-Vigilance : Octroie une immunité aux entraves (hors ulti et sabotage) et Résistance I pendant 10s.
+-Rayon Lune : Octroie Régénération II et 4 coeurs d'absorption pendant 10s.
+-Voix Enjôleuse : Octroie Speed II et +35% de chance de charmer les ennemis sur chaque coup pendant 10s.
+[Câlinerie] : Pendant 10s et dans un rayon de 7 blocs, tous les ennemis se tournent dans votre direction toutes les 2s. Vous avez +50% de charmer les ennemis qui vous frappe. Vous gagnez également Résistance II pendant 10s. (120s)
+
+Insecte :
+> -4❤
+> Première attaque contre un joueur inflige 2 coeurs dégâts bruts (20s cooldown par joueur)
+> Probabilité de faire spawn une cobweb à l'arc (30%) (disparaît après 5s)
+> 10% de chance sur tous les effets négatifs (Nausée/Blindness/Darkness/Faiblesse/Slowness/Poison/Stun/Confusion/Charme)
+[Papillodanse]
+Actif : Vous gagnez Vitesse 2 et 6 coeurs d'absorption pendant 10s.
+Passif : Vous gagnez 0.5 coeur par kill et 0.5 coeurs toutes les 3 assists de façon permanente.
+
+Roche/Sol (peut changer de forme comme Kayn) :
+> Empêche le joueur de sauter ?
+> Flèche probabilité de se tp sur un ennemi
+> Fermeté avec cooldown (permet de tanker 3 coups avant la mort)
+[Séisme] Bump les joueurs au sol dans un rayon
+[Tempête de Sable] Fais pleuvoir des blocs de sables qui infligent des malus
+
+Supprimer le type d'un joueur ?
+Meurt pas, full fer revient à la vie si kill

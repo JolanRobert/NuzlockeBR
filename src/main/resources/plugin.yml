@@ -1,0 +1,7 @@
+name: NuzlockeBR
+version: '${project.version}'
+main: me.nosta.nuzlockebr.Main
+api-version: 1.19
+author: Nosta
+commands:
+  nz:
